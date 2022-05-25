@@ -1,0 +1,15 @@
+{
+    "name": "nxuser/aisad",
+    "description": "Project tugas",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Awaludin AR",
+            "email": "awaludinar741@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "nama"   : "Home",
+        "icon"   : "icon-home",
+        "type"   : "menu",
+        "url"    : ""
+    },
+    {
+        "nama"   : "Transaksi",
+        "icon"   : "icon-home",
+        "type"   : "submenu",
+        "sub"    : [
+            {
+                "nama"   : "Riwayat Trx",
+                "url"    : "trx/riwayat-trx"
+            },
+            {
+                "nama"   : "Total Transaksi",
+                "url"    : "trx/total-trx.php"
+            }
+        ]
+    }
+]
